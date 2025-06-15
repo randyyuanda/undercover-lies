@@ -84,21 +84,14 @@ function App() {
                 setStep("setup");
                 setNotification(null);
               }}
-              style={{
-                backgroundColor: "#ffcc00",
-                color: "#000",
-                borderRadius: "20px",
-                fontWeight: "bold",
-                boxShadow: "0 0 10px rgba(255, 204, 0, 0.5)",
-                padding: "6px 16px",
-                border: "none",
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.backgroundColor = "#ffdd33";
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.backgroundColor = "#ffcc00";
-              }}
+              style={{ boxShadow: "none" }}
+              className="btn-start-game"
+              // onMouseEnter={(e) => {
+              //   e.currentTarget.style.backgroundColor = "#ffdd33";
+              // }}
+              // onMouseLeave={(e) => {
+              //   e.currentTarget.style.backgroundColor = "#ffcc00";
+              // }}
             >
               Start New Game
             </Button>

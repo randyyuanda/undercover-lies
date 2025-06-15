@@ -421,14 +421,14 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
             size="large"
             onClick={handleStartGame}
             onMouseEnter={(e) => {
-              e.currentTarget.style.backgroundColor = "#FFA500";
+              // e.currentTarget.style.backgroundColor = "var(--color)";
               e.currentTarget.style.boxShadow =
-                "0 0 16px #FFD700, 0 0 24px #FF8C00";
+                "0 0 16px #B80D57, 0 0 24px #A8026f";
             }}
             onMouseLeave={(e) => {
-              e.currentTarget.style.backgroundColor = "#FF8C00";
+              // e.currentTarget.style.backgroundColor = "#A8026f";
               e.currentTarget.style.boxShadow =
-                "0 0 10px #FFD700, 0 0 20px #FF8C00";
+                "0 0 10px #B80D57, 0 0 20px #A8026f";
             }}
           >
             <span style={{ textShadow: "1px 1px 2px #000" }}>Start Game</span>
