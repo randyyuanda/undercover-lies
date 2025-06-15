@@ -127,33 +127,27 @@ const RoleReveal: React.FC<RoleRevealProps> = ({ gameData, next }) => {
         <p style={{ fontSize: "1.1rem" }}>
           <strong>Your word:</strong>{" "}
           {wordRevealed ? (
-            <p style={{ fontSize: 18, textAlign: "center" }}>
-              <strong>Your word:</strong>{" "}
+            <span
+              onClick={() => setWordRevealed(false)}
+              style={{
+                cursor: "pointer",
+              }}
+            >
+              {selectedPlayer ? getWordForPlayer(selectedPlayer) : ""}
+            </span>
+          ) : (
+            <strong>
               <span
-                onClick={() => setWordRevealed(false)}
+                onClick={() => setWordRevealed(true)}
                 style={{
                   cursor: "pointer",
                 }}
               >
-                {selectedPlayer ? getWordForPlayer(selectedPlayer) : ""}
+                {selectedPlayer
+                  ? "*".repeat(getWordForPlayer(selectedPlayer).length)
+                  : ""}
               </span>
-            </p>
-          ) : (
-            <p style={{ fontSize: 18, textAlign: "center" }}>
-              <strong>
-                Your word:{" "}
-                <span
-                  onClick={() => setWordRevealed(true)}
-                  style={{
-                    cursor: "pointer",
-                  }}
-                >
-                  {selectedPlayer
-                    ? "*".repeat(getWordForPlayer(selectedPlayer).length)
-                    : ""}
-                </span>
-              </strong>
-            </p>
+            </strong>
           )}
         </p>
       </Modal>

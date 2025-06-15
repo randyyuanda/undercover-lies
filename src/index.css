@@ -35,6 +35,9 @@
 .ant-modal-header {
   background-color: transparent !important;
 }
+.list-item-avatar .ant-list-item-meta-avatar {
+  width: 50px;
+}
 #root {
   width: 100%;
   height: 100%;

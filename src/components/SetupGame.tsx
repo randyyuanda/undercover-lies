@@ -33,6 +33,7 @@ type SetupGameProps = {
   onStart: (data: GameData) => void;
   skipIntro?: boolean;
 };
+type WordPair = { civilian: string; undercover: string };
 
 const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
   const [step, setStep] = useState<"intro" | "count" | "player" | "review">(
@@ -104,8 +105,6 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
 
   const handleStartGame = async () => {
     try {
-      // setLoading(true);
-
       const language = "en";
       const filePath =
         language === "en" ? "/locales/english.json" : "/locales/indonesia.json";
@@ -113,14 +112,35 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
       const res = await fetch(filePath);
       const data = await res.json();
 
-      const wordPairs = data.wordPairs;
-      const selectedPair =
-        wordPairs[Math.floor(Math.random() * wordPairs.length)];
+      if (!Array.isArray(data.wordPairs)) {
+        throw new Error("Invalid or missing wordPairs in JSON");
+      }
+
+      const wordPairs: WordPair[] = data.wordPairs;
+
+      // Optional: filter out already-used word pairs
+      const usedPairs = new Set<string>(); // TODO: persist this if needed
+
+      let selectedPair: WordPair | null = null;
+      for (let i = 0; i < 100; i++) {
+        const candidate =
+          wordPairs[Math.floor(Math.random() * wordPairs.length)];
+        const key = `${candidate.civilian}|${candidate.undercover}`;
+        if (!usedPairs.has(key)) {
+          usedPairs.add(key);
+          selectedPair = candidate;
+          break;
+        }
+      }
+
+      if (!selectedPair) {
+        throw new Error("No unused word pair found");
+      }
 
       const undercoverCount = playerCount >= 6 ? 2 : 1;
       const roles: { [name: string]: "civilian" | "undercover" } = {};
-
       const undercoverIndices: number[] = [];
+
       while (undercoverIndices.length < undercoverCount) {
         const idx = Math.floor(Math.random() * playerCount);
         if (!undercoverIndices.includes(idx)) undercoverIndices.push(idx);
@@ -135,14 +155,16 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
       onStart({
         players,
         roles,
-        words: selectedPair,
+        words: {
+          civilian: selectedPair.civilian,
+          undercover: selectedPair.undercover,
+        },
         clues: {},
         round: 3,
+        usedWordPairs: [...usedPairs], // if you want to persist
       });
     } catch (error) {
       console.error("Error loading word pairs:", error);
-    } finally {
-      // setLoading(false);
     }
   };
 

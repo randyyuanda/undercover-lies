@@ -9,4 +9,5 @@ export type GameData = {
   };
   clues: { [playerName: string]: string };
   round: number;
+  usedWordPairs: string[];
 };

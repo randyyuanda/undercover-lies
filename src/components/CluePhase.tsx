@@ -13,6 +13,7 @@ import {
 import Lottie from "lottie-react";
 import avatarAnimation from "../assets/lotties/People.json";
 import type { GameData } from "../model/GameData";
+import { avatars } from "../data/avatar";
 
 const { Title } = Typography;
 
@@ -54,6 +55,8 @@ const CluePhase: React.FC<CluePhaseProps> = ({
     }
   };
 
+  const playerAvatar = avatars.find((a) => a.id === currentPlayer.avatar.id);
+
   return (
     <Space direction="vertical" style={{ width: "100%" }}>
       {/* <Card style={{ width: "100%" }}> */}
@@ -67,7 +70,7 @@ const CluePhase: React.FC<CluePhaseProps> = ({
           style={{ width: 150, textAlign: "center" }}
         >
           <Lottie
-            animationData={avatarAnimation}
+            animationData={playerAvatar?.animation}
             loop={true}
             style={{ height: 100 }}
           />
