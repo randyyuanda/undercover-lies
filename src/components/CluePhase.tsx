@@ -11,7 +11,6 @@ import {
   message,
 } from "antd";
 import Lottie from "lottie-react";
-import avatarAnimation from "../assets/lotties/People.json";
 import type { GameData } from "../model/GameData";
 import { avatars } from "../data/avatar";
 
