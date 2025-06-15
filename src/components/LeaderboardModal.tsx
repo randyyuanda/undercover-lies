@@ -1,4 +1,4 @@
-import { Modal, List, Avatar as AntdAvatar, Typography, Space } from "antd";
+import { Modal, List, Typography, Space } from "antd";
 import { CrownFilled, TrophyFilled, StarFilled } from "@ant-design/icons";
 import Lottie from "lottie-react";
 import type { Player } from "../model/Player";

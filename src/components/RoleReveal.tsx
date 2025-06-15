@@ -1,18 +1,7 @@
 import { useState, useEffect } from "react";
-import {
-  Button,
-  Card,
-  Typography,
-  Modal,
-  Row,
-  Col,
-  Tooltip,
-  Space,
-} from "antd";
+import { Typography, Modal, Row, Col, Tooltip, Space } from "antd";
 import type { GameData } from "../model/GameData";
 import Lottie from "lottie-react";
-import avatarAnimation from "../assets/lotties/People.json";
-import type { Avatar } from "../model/Avatar";
 import { avatars } from "../data/avatar";
 
 const { Title } = Typography;

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Button, Card, Select, Typography, List, Space } from "antd";
+import { Button, Select, Typography, List, Space } from "antd";
 import type { GameData } from "../model/GameData";
 
 const { Title } = Typography;

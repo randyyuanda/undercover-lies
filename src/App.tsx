@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { Button, Layout, Modal, Row, Space, Typography } from "antd";
+import { Button, Layout, Row, Space, Typography } from "antd";
 import SetupGame from "../src/components/SetupGame";
 import RoleReveal from "../src/components/RoleReveal";
 import CluePhase from "../src/components/CluePhase";
@@ -9,18 +9,13 @@ import type { GameData } from "./model/GameData";
 import LeaderboardModal from "./components/LeaderboardModal";
 import { TrophyOutlined } from "@ant-design/icons";
 
-const { Header, Content } = Layout;
-const { Title } = Typography;
+const { Content } = Layout;
 
 function App() {
   const [step, setStep] = useState<
     "setup" | "reveal" | "clue" | "vote" | "result" | "end"
   >("setup");
   const [gameData, setGameData] = useState<GameData | null>(null);
-  const [voteResults, setVoteResults] = useState<{ [player: string]: number }>(
-    {}
-  );
-  const [eliminatedPlayer, setEliminatedPlayer] = useState<string | null>(null);
   const [notification, setNotification] = useState<string | null>(null);
   const [showLeaderboard, setShowLeaderboard] = useState(false);
   const [skipIntro, setSkipIntro] = useState(false);

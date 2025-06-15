@@ -1,7 +1,6 @@
-import { useState, useCallback, useRef, useEffect } from "react";
+import { useState, useCallback } from "react";
 import {
   Button,
-  Form,
   Input,
   InputNumber,
   message,
@@ -22,13 +21,13 @@ import { loadFull } from "tsparticles";
 
 const { Title } = Typography;
 
-const wordPairs = [
-  { civilian: "cat", undercover: "tiger" },
-  { civilian: "beach", undercover: "desert" },
-  { civilian: "tea", undercover: "coffee" },
-  { civilian: "sun", undercover: "lamp" },
-  { civilian: "book", undercover: "magazine" },
-];
+// const wordPairs = [
+//   { civilian: "cat", undercover: "tiger" },
+//   { civilian: "beach", undercover: "desert" },
+//   { civilian: "tea", undercover: "coffee" },
+//   { civilian: "sun", undercover: "lamp" },
+//   { civilian: "book", undercover: "magazine" },
+// ];
 
 type SetupGameProps = {
   onStart: (data: GameData) => void;
@@ -44,8 +43,8 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [name, setName] = useState("");
   const [selectedAvatar, setSelectedAvatar] = useState<Avatar | null>(null);
-  const [loading, setLoading] = useState(false);
-  const particlesInit = useCallback(async (engine) => {
+  // const [loading, setLoading] = useState(false);
+  const particlesInit = useCallback(async (engine: any) => {
     await loadFull(engine);
   }, []);
   const handleNextPlayer = () => {
@@ -105,7 +104,7 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
 
   const handleStartGame = async () => {
     try {
-      setLoading(true);
+      // setLoading(true);
 
       const language = "en";
       const filePath =
@@ -143,7 +142,7 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
     } catch (error) {
       console.error("Error loading word pairs:", error);
     } finally {
-      setLoading(false);
+      // setLoading(false);
     }
   };
 
@@ -340,7 +339,7 @@ const SetupGame: React.FC<SetupGameProps> = ({ onStart, skipIntro }) => {
                     p?.avatar?.id === avatar.id && idx !== currentIndex
                 )
             )
-            .map((avatar) => (
+            .map((avatar: any) => (
               <Col key={avatar.id} span={6}>
                 <Card
                   hoverable
