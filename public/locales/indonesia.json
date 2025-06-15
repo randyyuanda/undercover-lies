@@ -1,0 +1,8004 @@
+{
+  "wordPairs": [
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "komputer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "pena",
+      "undercover": "pensil"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "mal",
+      "undercover": "pasar"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "ayam",
+      "undercover": "elang"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bandara",
+      "undercover": "stasiun"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "telepon",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "insinyur",
+      "undercover": "arsitek"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "sekolah",
+      "undercover": "universitas"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "lebah",
+      "undercover": "tawon"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kuda",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "perpustakaan",
+      "undercover": "toko buku"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "sup",
+      "undercover": "semur"
+    },
+    {
+      "civilian": "tas",
+      "undercover": "koper"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kafe",
+      "undercover": "restoran"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "rumah sakit",
+      "undercover": "klinik"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "guru",
+      "undercover": "dosen"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "jagung",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "sopir",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "kursi",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "rumah",
+      "undercover": "apartemen"
+    },
+    {
+      "civilian": "cabai",
+      "undercover": "lada"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "polisi",
+      "undercover": "tentara"
+    },
+    {
+      "civilian": "jam",
+      "undercover": "arloji"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "susu",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "taman",
+      "undercover": "kebun binatang"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "telur",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "koki",
+      "undercover": "pembuat roti"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "dokter",
+      "undercover": "perawat"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "mobil",
+      "undercover": "truk"
+    },
+    {
+      "civilian": "apel",
+      "undercover": "pir"
+    },
+    {
+      "civilian": "kota",
+      "undercover": "desa"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "teh",
+      "undercover": "kopi"
+    },
+    {
+      "civilian": "lampu",
+      "undercover": "lilin"
+    },
+    {
+      "civilian": "bebek",
+      "undercover": "angsa"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "sapi",
+      "undercover": "kerbau"
+    },
+    {
+      "civilian": "anjing",
+      "undercover": "serigala"
+    },
+    {
+      "civilian": "kucing",
+      "undercover": "harimau"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "garam",
+      "undercover": "gula"
+    },
+    {
+      "civilian": "petani",
+      "undercover": "tukang kebun"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "kelinci",
+      "undercover": "kanguru"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "nasi",
+      "undercover": "mi"
+    },
+    {
+      "civilian": "penyanyi",
+      "undercover": "penari"
+    },
+    {
+      "civilian": "roti",
+      "undercover": "kue"
+    },
+    {
+      "civilian": "domba",
+      "undercover": "kambing"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    },
+    {
+      "civilian": "kasir",
+      "undercover": "pelayan"
+    },
+    {
+      "civilian": "semut",
+      "undercover": "rayap"
+    },
+    {
+      "civilian": "aktor",
+      "undercover": "sutradara"
+    },
+    {
+      "civilian": "botol",
+      "undercover": "gelas"
+    }
+  ]
+}

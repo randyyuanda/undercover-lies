@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Button, Card, Select, Typography, List } from "antd";
+import { Button, Card, Select, Typography, List, Space } from "antd";
 import type { GameData } from "../model/GameData";
 
 const { Title } = Typography;
@@ -36,15 +36,17 @@ const VotingPhase: React.FC<VotingPhaseProps> = ({ gameData, next }) => {
   };
 
   return (
-    <Card>
-      <Title level={4}>Voting Phase</Title>
+    <Space direction="vertical" style={{ width: "100%" }}>
+      <Title className="text-header" level={4}>
+        Voting Phase
+      </Title>
       <p>
         <strong>{currentPlayer.name}</strong>, choose someone to vote (or skip):
       </p>
 
       <Select
         placeholder="Vote a player or choose no vote"
-        style={{ width: "100%", marginBottom: "1rem" }}
+        style={{ width: "70%", marginBottom: "1rem" }}
         value={selectedVote || undefined}
         onChange={(value) => setSelectedVote(value)}
       >
@@ -57,14 +59,32 @@ const VotingPhase: React.FC<VotingPhaseProps> = ({ gameData, next }) => {
           ))}
         <Option value="no_vote">No Vote</Option>
       </Select>
-
       <Button
+        className="btn-start-game"
+        type="primary"
+        size="large"
+        onClick={handleVote}
+        disabled={selectedVote === null}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.backgroundColor = "#FFA500";
+          e.currentTarget.style.boxShadow =
+            "0 0 16px #FFD700, 0 0 24px #FF8C00";
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.backgroundColor = "#FF8C00";
+          e.currentTarget.style.boxShadow =
+            "0 0 10px #FFD700, 0 0 20px #FF8C00";
+        }}
+      >
+        <span style={{ textShadow: "1px 1px 2px #000" }}>Submit Vote</span>
+      </Button>
+      {/* <Button
         type="primary"
         onClick={handleVote}
         disabled={selectedVote === null}
       >
         Submit Vote
-      </Button>
+      </Button> */}
 
       <List
         header={<strong>Votes So Far:</strong>}
@@ -75,7 +95,7 @@ const VotingPhase: React.FC<VotingPhaseProps> = ({ gameData, next }) => {
         renderItem={(item) => <List.Item>{item}</List.Item>}
         style={{ marginTop: "2rem" }}
       />
-    </Card>
+    </Space>
   );
 };
 

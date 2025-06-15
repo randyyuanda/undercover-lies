@@ -1,9 +1,20 @@
-import { useEffect, useState } from "react";
-import { Button, Card, Input, List, Typography, message } from "antd";
+import { useState } from "react";
+import {
+  Button,
+  Card,
+  Input,
+  List,
+  Modal,
+  Row,
+  Space,
+  Typography,
+  message,
+} from "antd";
+import Lottie from "lottie-react";
+import avatarAnimation from "../assets/lotties/People.json";
 import type { GameData } from "../model/GameData";
-import type { Player } from "../model/Player";
 
-const { Title, Paragraph } = Typography;
+const { Title } = Typography;
 
 type CluePhaseProps = {
   gameData: GameData;
@@ -19,6 +30,8 @@ const CluePhase: React.FC<CluePhaseProps> = ({
   const [current, setCurrent] = useState(0);
   const [clue, setClue] = useState("");
   const [clues, setClues] = useState<{ player: string; clue: string }[]>([]);
+  const [showWordModal, setShowWordModal] = useState(false);
+  const [wordRevealed, setWordRevealed] = useState(false);
 
   const currentPlayer = players[current];
   const playerRole = roles[currentPlayer.name];
@@ -37,31 +50,63 @@ const CluePhase: React.FC<CluePhaseProps> = ({
     if (current + 1 < players.length) {
       setCurrent(current + 1);
     } else {
-      onCluesSubmitted(updatedClues); // move to next phase
+      onCluesSubmitted(updatedClues);
     }
   };
 
-  useEffect(() => {
-    console.log(clues);
-  }, [clues]);
   return (
-    <Card>
-      <Title level={4}>{currentPlayer.name}'s Turn</Title>
-      <Paragraph>
-        <strong>Your word:</strong> {word}
-      </Paragraph>
+    <Space direction="vertical" style={{ width: "100%" }}>
+      {/* <Card style={{ width: "100%" }}> */}
+      <Title className="text-header" level={4}>
+        Clue Phase
+      </Title>
+      <Row justify="center" style={{ marginBottom: 16 }}>
+        <Card
+          hoverable
+          onClick={() => setShowWordModal(true)}
+          style={{ width: 150, textAlign: "center" }}
+        >
+          <Lottie
+            animationData={avatarAnimation}
+            loop={true}
+            style={{ height: 100 }}
+          />
+          <div style={{ marginTop: 8, fontSize: 24 }}>{currentPlayer.name}</div>
+        </Card>
+      </Row>
+
       <Input
+        style={{ width: "70%" }}
         placeholder="Enter your clue"
         value={clue}
         onChange={(e) => setClue(e.target.value)}
       />
       <Button
+        className="btn-start-game"
+        type="primary"
+        size="large"
+        onClick={handleSubmitClue}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.backgroundColor = "#FFA500";
+          e.currentTarget.style.boxShadow =
+            "0 0 16px #FFD700, 0 0 24px #FF8C00";
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.backgroundColor = "#FF8C00";
+          e.currentTarget.style.boxShadow =
+            "0 0 10px #FFD700, 0 0 20px #FF8C00";
+        }}
+      >
+        <span style={{ textShadow: "1px 1px 2px #000" }}>Submit Clue</span>
+      </Button>
+      {/* <Button
         type="primary"
         onClick={handleSubmitClue}
         style={{ marginTop: 16 }}
       >
         Submit Clue
-      </Button>
+      </Button> */}
+
       <List
         header={<strong>Clues Given:</strong>}
         dataSource={clues}
@@ -72,7 +117,50 @@ const CluePhase: React.FC<CluePhaseProps> = ({
         )}
         style={{ marginTop: "2rem" }}
       />
-    </Card>
+
+      <Modal
+        title={`${currentPlayer.name}'s Word`}
+        open={showWordModal}
+        onOk={() => {
+          setShowWordModal(false);
+          setWordRevealed(false);
+        }}
+        onCancel={() => {
+          setShowWordModal(false);
+          setWordRevealed(false);
+        }}
+        okText="Close"
+        centered
+      >
+        {wordRevealed ? (
+          <p style={{ fontSize: 18, textAlign: "center" }}>
+            <strong>Your word:</strong>{" "}
+            <span
+              onClick={() => setWordRevealed(false)}
+              style={{
+                cursor: "pointer",
+              }}
+            >
+              {word}
+            </span>
+          </p>
+        ) : (
+          <p style={{ fontSize: 18, textAlign: "center" }}>
+            <strong>
+              Your word:{" "}
+              <span
+                onClick={() => setWordRevealed(true)}
+                style={{
+                  cursor: "pointer",
+                }}
+              >
+                {"*".repeat(word.length)}
+              </span>
+            </strong>
+          </p>
+        )}
+      </Modal>
+    </Space>
   );
 };
 

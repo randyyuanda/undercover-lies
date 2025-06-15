@@ -1,11 +1,13 @@
-import { useEffect, useState } from "react";
-import { Layout, Typography, message } from "antd";
+import { useEffect, useRef, useState } from "react";
+import { Button, Layout, Modal, Row, Space, Typography } from "antd";
 import SetupGame from "../src/components/SetupGame";
 import RoleReveal from "../src/components/RoleReveal";
 import CluePhase from "../src/components/CluePhase";
 import VotingPhase from "../src/components/VotingPhase";
-import "antd/dist/reset.css"; // Ant Design styles
+import "antd/dist/reset.css";
 import type { GameData } from "./model/GameData";
+import LeaderboardModal from "./components/LeaderboardModal";
+import { TrophyOutlined } from "@ant-design/icons";
 
 const { Header, Content } = Layout;
 const { Title } = Typography;
@@ -20,22 +22,131 @@ function App() {
   );
   const [eliminatedPlayer, setEliminatedPlayer] = useState<string | null>(null);
   const [notification, setNotification] = useState<string | null>(null);
+  const [showLeaderboard, setShowLeaderboard] = useState(false);
+  const [skipIntro, setSkipIntro] = useState(false);
 
   useEffect(() => {
     console.log(gameData);
   }, [gameData]);
 
+  useEffect(() => {
+    if (step === "end") {
+      setShowLeaderboard(true);
+    }
+  }, [step]);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const isPlayingRef = useRef(false);
+
+  const playMusic = async () => {
+    if (isPlayingRef.current) return;
+
+    if (!audioRef.current) {
+      audioRef.current = new Audio("/assets/music/bg-sound.mp3");
+      audioRef.current.loop = true;
+      audioRef.current.volume = 0.4;
+    }
+
+    try {
+      await audioRef.current.play();
+      isPlayingRef.current = true;
+      console.log("🎵 Music playing");
+    } catch (err) {
+      console.warn("❌ Failed to play sound:", err);
+    }
+  };
+  useEffect(() => {
+    const tryPlay = () => {
+      playMusic();
+      document.removeEventListener("click", tryPlay);
+    };
+
+    document.addEventListener("click", tryPlay);
+    return () => document.removeEventListener("click", tryPlay);
+  }, []);
   return (
-    <Layout style={{ minHeight: "100vh", padding: "1rem" }}>
-      <Header style={{ background: "#001529" }}>
+    <Layout
+      style={{
+        padding: "1rem",
+        minHeight: "100vh",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        flexDirection: "column",
+      }}
+    >
+      {/* <Header style={{ background: "#001529" }}>
         <Title style={{ color: "#fff", margin: 0 }} level={3}>
           Undercover Lies
         </Title>
-      </Header>
+      </Header> */}
+      <Row justify="end" style={{ width: "100%", padding: "1rem" }}>
+        <Space>
+          {gameData && (
+            <Button
+              onClick={() => {
+                setSkipIntro(true);
+                setGameData(null);
+                setStep("setup");
+                setNotification(null);
+              }}
+              style={{
+                backgroundColor: "#ffcc00",
+                color: "#000",
+                borderRadius: "20px",
+                fontWeight: "bold",
+                boxShadow: "0 0 10px rgba(255, 204, 0, 0.5)",
+                padding: "6px 16px",
+                border: "none",
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.backgroundColor = "#ffdd33";
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.backgroundColor = "#ffcc00";
+              }}
+            >
+              Start New Game
+            </Button>
+          )}
 
-      <Content style={{ marginTop: "2rem" }}>
+          <Button
+            onClick={() => setShowLeaderboard(true)}
+            icon={<TrophyOutlined />}
+            style={{
+              backgroundColor: "#1f1b2e",
+              color: "#fff",
+              border: "1px solid #fff",
+              borderRadius: "20px",
+              boxShadow: "0 0 10px rgba(255, 255, 255, 0.3)",
+              fontWeight: "bold",
+              padding: "6px 16px",
+            }}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.backgroundColor = "#3a325d";
+              e.currentTarget.style.boxShadow = "0 0 12px #ffa500";
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.backgroundColor = "#1f1b2e";
+              e.currentTarget.style.boxShadow =
+                "0 0 10px rgba(255, 255, 255, 0.3)";
+            }}
+          >
+            Leaderboard
+          </Button>
+        </Space>
+      </Row>
+
+      <Content
+        style={{
+          justifyContent: "cetner",
+          alignItems: "center",
+          display: "flex",
+          width: "100%",
+        }}
+      >
         {step === "setup" && (
           <SetupGame
+            skipIntro={skipIntro}
             onStart={(data) => {
               setGameData(data);
               setStep("reveal");
@@ -78,19 +189,23 @@ function App() {
 
               if (topVoted.length === 1 && maxVoteCount >= majorityThreshold) {
                 const eliminatedName = topVoted[0][0];
-                setNotification("Eliminated: " + eliminatedName);
+                if (eliminatedName === undercoverName) {
+                  setNotification("Civilians win!");
+                } else {
+                  setNotification("Undercover wins!");
+                }
+
+                // setNotification("Eliminated: " + eliminatedName);
 
                 let updatedPlayers = [...gameData.players];
 
                 if (eliminatedName === undercoverName) {
-                  // ✅ Civilians win: +1 point to each civilian
                   updatedPlayers = updatedPlayers.map((player) =>
                     gameData.roles[player.name] === "civilian"
-                      ? { ...player, points: (player.points || 0) + 1 }
+                      ? { ...player, points: (player.points || 0) + 2 }
                       : player
                   );
                 } else {
-                  // ❌ Undercover not eliminated: Undercover gets +number of civilians
                   const numCivilians = updatedPlayers.filter(
                     (p) => gameData.roles[p.name] === "civilian"
                   ).length;
@@ -99,29 +214,29 @@ function App() {
                     player.name === undercoverName
                       ? {
                           ...player,
-                          points: (player.points || 0) + numCivilians,
+                          points: (player.points || 0) + numCivilians * 5,
                         }
                       : player
                   );
                 }
 
-                // ✅ Go to next round if available
                 if (gameData.round > 1) {
                   setTimeout(() => {
                     setGameData({
                       ...gameData,
                       players: updatedPlayers,
                       round: gameData.round - 1,
-                      clues: {}, // reset for new round
+                      clues: {},
                     });
                     setStep("reveal");
+                    setNotification(null);
                   }, 2000);
                 } else {
                   setGameData({ ...gameData, players: updatedPlayers });
                   setStep("end");
                 }
               } else {
-                setNotification("No majority. Undercover wins!");
+                setNotification("Undercover wins!");
 
                 const numCivilians = gameData.players.filter(
                   (p) => gameData.roles[p.name] === "civilian"
@@ -133,7 +248,6 @@ function App() {
                     : player
                 );
 
-                // Go to next round or end
                 if (gameData.round > 1) {
                   setTimeout(() => {
                     setGameData({
@@ -153,14 +267,32 @@ function App() {
             }}
           />
         )}
-        {notification && (
-          <div
-            style={{ margin: "1rem 0", color: "#faad14", fontWeight: "bold" }}
-          >
-            {notification}
-          </div>
-        )}
+        {/* {notification && (
+          <Space direction="vertical" style={{ width: "100%" }}>
+            <Row>{notification}</Row>
+          </Space>
+        )} */}
+        <br />
+
+        <LeaderboardModal
+          visible={showLeaderboard}
+          onClose={() => setShowLeaderboard(false)}
+          players={gameData?.players || []}
+        />
       </Content>
+      {notification && (
+        <Space direction="vertical" style={{ width: "100%" }}>
+          <Row>
+            <span className="text-header">{notification}</span>
+          </Row>
+        </Space>
+      )}
+      <Typography.Text
+        type="secondary"
+        style={{ fontSize: 12, color: "var(--color-text)" }}
+      >
+        © 2025 Randy Yuanda • Undercover Lies
+      </Typography.Text>
     </Layout>
   );
 }

@@ -1,0 +1,8004 @@
+{
+  "wordPairs": [
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "soup",
+      "undercover": "stew"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "police",
+      "undercover": "soldier"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "clock",
+      "undercover": "watch"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "car",
+      "undercover": "truck"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "actor",
+      "undercover": "director"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "rabbit",
+      "undercover": "kangaroo"
+    },
+    {
+      "civilian": "doctor",
+      "undercover": "nurse"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cow",
+      "undercover": "buffalo"
+    },
+    {
+      "civilian": "duck",
+      "undercover": "swan"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "bread",
+      "undercover": "cake"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "chicken",
+      "undercover": "eagle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bee",
+      "undercover": "wasp"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "rice",
+      "undercover": "noodle"
+    },
+    {
+      "civilian": "engineer",
+      "undercover": "architect"
+    },
+    {
+      "civilian": "bottle",
+      "undercover": "glass"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "chili",
+      "undercover": "pepper"
+    },
+    {
+      "civilian": "phone",
+      "undercover": "tablet"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "cashier",
+      "undercover": "waiter"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "tv",
+      "undercover": "radio"
+    },
+    {
+      "civilian": "library",
+      "undercover": "bookstore"
+    },
+    {
+      "civilian": "house",
+      "undercover": "apartment"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "salt",
+      "undercover": "sugar"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "computer",
+      "undercover": "laptop"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "horse",
+      "undercover": "zebra"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "tea",
+      "undercover": "coffee"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "chair",
+      "undercover": "sofa"
+    },
+    {
+      "civilian": "singer",
+      "undercover": "dancer"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "chef",
+      "undercover": "baker"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "sheep",
+      "undercover": "goat"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "apple",
+      "undercover": "pear"
+    },
+    {
+      "civilian": "park",
+      "undercover": "zoo"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "milk",
+      "undercover": "yogurt"
+    },
+    {
+      "civilian": "cat",
+      "undercover": "tiger"
+    },
+    {
+      "civilian": "school",
+      "undercover": "university"
+    },
+    {
+      "civilian": "pen",
+      "undercover": "pencil"
+    },
+    {
+      "civilian": "corn",
+      "undercover": "popcorn"
+    },
+    {
+      "civilian": "egg",
+      "undercover": "omelet"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "bank",
+      "undercover": "atm"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    },
+    {
+      "civilian": "mall",
+      "undercover": "market"
+    },
+    {
+      "civilian": "driver",
+      "undercover": "pilot"
+    },
+    {
+      "civilian": "city",
+      "undercover": "village"
+    },
+    {
+      "civilian": "cafe",
+      "undercover": "restaurant"
+    },
+    {
+      "civilian": "airport",
+      "undercover": "station"
+    },
+    {
+      "civilian": "hospital",
+      "undercover": "clinic"
+    },
+    {
+      "civilian": "lamp",
+      "undercover": "candle"
+    },
+    {
+      "civilian": "ant",
+      "undercover": "termite"
+    },
+    {
+      "civilian": "farmer",
+      "undercover": "gardener"
+    },
+    {
+      "civilian": "teacher",
+      "undercover": "professor"
+    },
+    {
+      "civilian": "dog",
+      "undercover": "wolf"
+    },
+    {
+      "civilian": "bag",
+      "undercover": "suitcase"
+    }
+  ]
+}

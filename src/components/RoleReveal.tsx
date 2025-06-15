@@ -1,9 +1,21 @@
-import { useState } from "react";
-import { Button, Card, Typography } from "antd";
-import type { Player } from "../model/Player";
+import { useState, useEffect } from "react";
+import {
+  Button,
+  Card,
+  Typography,
+  Modal,
+  Row,
+  Col,
+  Tooltip,
+  Space,
+} from "antd";
 import type { GameData } from "../model/GameData";
+import Lottie from "lottie-react";
+import avatarAnimation from "../assets/lotties/People.json";
+import type { Avatar } from "../model/Avatar";
+import { avatars } from "../data/avatar";
 
-const { Title, Paragraph } = Typography;
+const { Title } = Typography;
 
 type RoleRevealProps = {
   gameData: GameData;
@@ -11,45 +23,152 @@ type RoleRevealProps = {
 };
 
 const RoleReveal: React.FC<RoleRevealProps> = ({ gameData, next }) => {
-  const [current, setCurrent] = useState(0);
-  const [showRole, setShowRole] = useState(false);
-
   const { players, roles, words } = gameData;
-  const currentPlayer = players[current];
-  const playerRole = roles[currentPlayer.name];
-  const word = playerRole === "civilian" ? words.civilian : words.undercover;
 
-  const handleNext = () => {
-    if (current + 1 < players.length) {
-      setCurrent(current + 1);
-      setShowRole(false);
-    } else {
-      next(); // move to next phase
+  const [revealOrder, setRevealOrder] = useState<string[]>([]);
+  const [revealedPlayers, setRevealedPlayers] = useState<Set<string>>(
+    new Set()
+  );
+  const [selectedPlayer, setSelectedPlayer] = useState<string | null>(null);
+  const [wordRevealed, setWordRevealed] = useState(false);
+
+  useEffect(() => {
+    const shuffled = [...players.map((p) => p.name)].sort(
+      () => Math.random() - 0.5
+    );
+    setRevealOrder(shuffled);
+  }, [players]);
+
+  const handleReveal = (playerName: string) => {
+    if (!revealedPlayers.has(playerName)) {
+      setSelectedPlayer(playerName);
     }
   };
 
-  return (
-    <Card>
-      <Title level={4}>{currentPlayer.name}'s Turn</Title>
+  const handleDone = () => {
+    setWordRevealed(false);
+    if (selectedPlayer) {
+      setRevealedPlayers((prev) => new Set(prev).add(selectedPlayer));
+      setSelectedPlayer(null);
+    }
 
-      {!showRole ? (
-        <Button type="primary" onClick={() => setShowRole(true)}>
-          Reveal Role
-        </Button>
-      ) : (
-        <>
-          {/* <Paragraph>
-            <strong>Role:</strong> {playerRole}
-          </Paragraph> */}
-          <Paragraph>
-            <strong>Your word:</strong> {word}
-          </Paragraph>
-          <Button type="primary" onClick={handleNext}>
-            Next Player
-          </Button>
-        </>
-      )}
-    </Card>
+    if (revealedPlayers.size + 1 === players.length) {
+      next();
+    }
+  };
+
+  const getWordForPlayer = (name: string) =>
+    roles[name] === "civilian" ? words.civilian : words.undercover;
+
+  return (
+    <Space direction="vertical" style={{ width: "100%" }}>
+      <Row>
+        <Title level={3} style={{ textAlign: "center", marginBottom: 32 }}>
+          <span className="text-header-font">🔍</span>{" "}
+          <span className="text-header"> Role Reveal</span>
+        </Title>
+      </Row>
+
+      <Row gutter={[16, 24]} justify="center">
+        {revealOrder.map((name) => {
+          const player = players.find((p) => p.name === name);
+          if (!player) return null;
+
+          const playerAvatar = avatars.find((a) => a.id === player.avatar.id);
+          if (!playerAvatar) return null;
+
+          return (
+            <Col
+              key={name}
+              xs={12}
+              sm={8}
+              md={6}
+              style={{ textAlign: "center" }}
+            >
+              <Tooltip
+                title={
+                  revealedPlayers.has(name)
+                    ? "Already revealed"
+                    : "Click to reveal"
+                }
+              >
+                <div
+                  onClick={() => handleReveal(name)}
+                  style={{
+                    cursor: revealedPlayers.has(name)
+                      ? "not-allowed"
+                      : "pointer",
+                    opacity: revealedPlayers.has(name) ? 0.4 : 1,
+                    transition: "opacity 0.3s",
+                  }}
+                >
+                  <div
+                    style={{
+                      border: "2px solid #f0f0f0",
+                      borderRadius: 12,
+                      padding: 10,
+                      backgroundColor: "#fafafa",
+                      boxShadow: "0 2px 8px rgba(0,0,0,0.05)",
+                    }}
+                  >
+                    <Lottie
+                      animationData={playerAvatar.animation}
+                      loop
+                      style={{ height: 120 }}
+                    />
+                    <div style={{ marginTop: 8, fontWeight: 500 }}>{name}</div>
+                  </div>
+                </div>
+              </Tooltip>
+            </Col>
+          );
+        })}
+      </Row>
+
+      <Modal
+        title={`${selectedPlayer}'s Role`}
+        open={!!selectedPlayer}
+        onOk={handleDone}
+        onCancel={() => setSelectedPlayer(null)}
+        okText="Done"
+        cancelText="Cancel"
+        cancelButtonProps={{ style: { display: "none" } }}
+        centered
+      >
+        <p style={{ fontSize: "1.1rem" }}>
+          <strong>Your word:</strong>{" "}
+          {wordRevealed ? (
+            <p style={{ fontSize: 18, textAlign: "center" }}>
+              <strong>Your word:</strong>{" "}
+              <span
+                onClick={() => setWordRevealed(false)}
+                style={{
+                  cursor: "pointer",
+                }}
+              >
+                {selectedPlayer ? getWordForPlayer(selectedPlayer) : ""}
+              </span>
+            </p>
+          ) : (
+            <p style={{ fontSize: 18, textAlign: "center" }}>
+              <strong>
+                Your word:{" "}
+                <span
+                  onClick={() => setWordRevealed(true)}
+                  style={{
+                    cursor: "pointer",
+                  }}
+                >
+                  {selectedPlayer
+                    ? "*".repeat(getWordForPlayer(selectedPlayer).length)
+                    : ""}
+                </span>
+              </strong>
+            </p>
+          )}
+        </p>
+      </Modal>
+    </Space>
   );
 };
 

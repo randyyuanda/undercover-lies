@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Flavors&family=PT+Serif&display=swap");
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -11,10 +13,37 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
 
+  --color-bg-main: #1a001a;
+  --color-bg-surface: #2c2c2c;
+  --color-bg-highlight: #2e0854;
+  --color-bg-overlay: rgba(0, 0, 0, 0.6);
+  --color-text: #f5f5f5;
+}
+.ant-modal-content {
+  background-color: var(--color-bg-main) !important;
+}
+.ant-modal-header {
+  background-color: transparent !important;
+}
 #root {
   width: 100%;
+  height: 100%;
+}
+.ant-list-header,
+.ant-list-item,
+.ant-empty-description,
+.ant-modal-title,
+p {
+  color: var(--color-text) !important;
+}
+.ant-layout {
+  height: 100%;
+  /* background-color: #1a001a; */
+  background: radial-gradient(circle at center, #2e0854 0%, #1a001a 100%);
+}
+.ant-space {
+  align-items: center;
 }
 a {
   font-weight: 500;
@@ -23,6 +52,71 @@ a {
 }
 a:hover {
   color: #535bf2;
+}
+
+.btn-start-game {
+  animation: pulseGlow 2s infinite;
+  font-family: "'Flavors', cursive";
+  background-color: #ff8c00;
+  border: none;
+  color: #fff;
+  box-shadow: 0 0 6px rgba(255, 140, 0, 0.6), 0 0 12px rgba(255, 140, 0, 0.3);
+  padding: 14px 28px;
+  border-radius: 16px;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+.text-header-font {
+  font-size: 50px !important;
+}
+.text-header {
+  font-size: 50px !important;
+  font-family: Flavors, cursive;
+  color: var(--color-text) !important;
+  text-shadow: 0 0 8px #ffd700, 0 0 12px #ff8c00;
+  text-align: center;
+  margin-bottom: 0px !important;
+}
+.ant-space-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-size: 35px !important;
+}
+.ant-layout-content {
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .text-header,
+  .ant-typhography {
+    font-size: 30px !important;
+  }
+  .text {
+    font-size: 15px !important;
+  }
+  .text-header-font {
+    font-size: 30px !important;
+  }
+  .ant-card-body {
+    padding: 8px !important;
+  }
+}
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 0 0 10px #ffd700, 0 0 20px #ff8c00;
+  }
+  50% {
+    box-shadow: 0 0 16px #ffd700, 0 0 30px #ff8c00;
+  }
+  100% {
+    box-shadow: 0 0 10px #ffd700, 0 0 20px #ff8c00;
+  }
 }
 
 body {
